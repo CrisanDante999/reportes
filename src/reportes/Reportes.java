@@ -12,7 +12,13 @@ public class Reportes {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "cargado");
+        JOptionPane.showMessageDialog(null, "cargado completamente");
+        JOptionPane.showMessageDialog(null, "cargado completamente");
+
+        JOptionPane.showMessageDialog(null, "cargado completamente");
+
+        JOptionPane.showMessageDialog(null, "cargado completamente");
+
     }
     
 }
